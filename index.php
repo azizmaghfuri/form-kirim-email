@@ -26,7 +26,7 @@
   <form action="kirim.php" method="post">
     <div class="mb-3 mt-3">
       <label>Email Tujuan:</label>
-      <input type="email" class="form-control"  placeholder="Email Tujuan" name="email" required>
+      <input type="email" class="form-control"  value="azizmaghfuri.official@gmail.com" name="email" required>
     </div>
     <div class="mb-3 mt-3">
       <label>Judul Pesan:</label>
